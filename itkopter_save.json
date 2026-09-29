@@ -1,0 +1,46 @@
+{
+  "gems": 1820,
+  "coins": 300,
+  "tickets": 0,
+  "pity": 10,
+  "total_pulls": 10,
+  "topups": 0,
+  "owned": {
+    "kursi": {
+      "rank": 2,
+      "lvl": 1
+    },
+    "gdsate": {
+      "rank": 1,
+      "lvl": 1
+    },
+    "ember": {
+      "rank": 2,
+      "lvl": 1
+    },
+    "cone": {
+      "rank": 1,
+      "lvl": 1
+    },
+    "warung": {
+      "rank": 2,
+      "lvl": 1
+    },
+    "tiang": {
+      "rank": 1,
+      "lvl": 1
+    },
+    "payung": {
+      "rank": 1,
+      "lvl": 1
+    }
+  },
+  "mats": {},
+  "active": "kursi",
+  "cleared": [
+    1
+  ],
+  "wins": 1,
+  "losses": 0,
+  "force_next": null
+}
